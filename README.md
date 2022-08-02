@@ -4,7 +4,7 @@
 
 <p align="center">
     <Strong>☁️SNS list☁️</Strong><br><br>
-    <a href="https://parkcoding98.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
+    <a href="https://parkcoding98.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
     
 <br><br>
 <Strong>📧Email📧</Strong><br>browoo051@gmail.com<br>
