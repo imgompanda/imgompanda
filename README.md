@@ -44,6 +44,8 @@
 
 ![imgompanda's github stats](https://github-readme-stats.vercel.app/api?username=imgompanda&show_icons=true&theme=tokyonight)
 <br>
+<br>
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imgompanda&layout=compact&theme=tokyonight)
 </div>
   
