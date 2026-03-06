@@ -1,53 +1,48 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=imgompanda's%20GitHub%20Profile&descAlignY=51&descAlign=62)
-
-
-<br>
+<h1 align="center">FreAiner</h1>
 
 <p align="center">
-    <Strong>☁️SNS list☁️</Strong><br><br>
-    <a href="https://parkcoding98.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
-    
-<br><br>
-<Strong>📧Email📧</Strong><br>browoo051@gmail.com<br>
+  Claude Code로 AI 서비스 40개를 만든 1인 개발자.<br/>
+  만드는 것에서 끝나지 않고, 수익화까지 합니다.
 </p>
-
-<br>
 
 <p align="center">
-반갑습니다👐<br>
-이름은 박형우예요. 창의적이고 인터렉티브한 웹 개발자를 꿈꾸며 프론트엔드를 공부하고있습니다.<br>
-현재 삼성전에 재직 중이며 생각하기 전에 실행한다는 마인드로 배우며 살아갑니다!<br>
+  <a href="https://fireship.me">fireship.me</a> · <a href="https://www.threads.net/@freainer">Threads</a> · <a href="mailto:browoo051@gmail.com">Email</a>
 </p>
 
-<br>
+---
+
+### 지금 하고 있는 일
+
+**오픈소스**
+- [fireauto](https://github.com/imgompanda/fireauto) — Claude Code 자동화 플러그인. SEO, 보안, 팀 에이전트, PRD, 레딧 리서치를 커맨드 하나로
+- [FireShipZip3](https://github.com/imgompanda/FireShipZip3) — Next.js + Supabase + AI SDK SaaS 보일러플레이트. 30분 만에 서비스 런칭
+
+**교육**
+- [수익화 바이브 코딩 부트캠프](https://fireship.me/ko/bootcamp) — 5일 만에 AI 서비스 기획부터 배포까지 (10명 소수정예)
+- [기업 AX 교육/컨설팅](https://fireship.me/ko/enterprise) — S전자 MX/VD 사업부 교육 (만족도 4.8점)
+
+### 주요 서비스
+
+| 서비스 | 설명 | 스택 |
+|--------|------|------|
+| [fireship.me](https://fireship.me) | SaaS 보일러플레이트 + 부트캠프 | Next.js, Supabase |
+| [ditfinder](https://ditfinder.com) | B2B 기업 검색 서비스 | Next.js, Supabase |
+| [supaleads](https://supaleads.app) | AI 기반 B2B 아웃바운드 | Next.js, AI SDK |
+
+### 기술 스택
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `DaisyUI` `Supabase` `Vercel AI SDK` `Claude Code` `Swift`
+
+### 숫자로 보기
+
+- AI 서비스 **40개** 개발, 그 중 **3개 수익화**
+- S전자 등 기업 AI 교육 **15회+** 진행
+- 누적 수강생 **200명+**, 만족도 **4.8/5.0**
+- 1년간 Claude Code 사용하며 축적한 노하우 → [fireauto](https://github.com/imgompanda/fireauto)로 오픈소스 공개
+
+---
 
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
-    💡used as the main
-    아직 열심히 배우는 중!
+  <img src="https://github-readme-stats.vercel.app/api?username=imgompanda&show_icons=true&theme=transparent&hide_border=true&title_color=FFBE1A&icon_color=FFBE1A&text_color=888" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgompanda&layout=compact&theme=transparent&hide_border=true&title_color=FFBE1A&text_color=888" height="160" />
 </p>
-
-
-<p align="center">
-    💡used at least once
-</p>
-
-<p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- 
-</p>
-
-<br>
-
-<div align=center>
-
-![imgompanda's github stats](https://github-readme-stats.vercel.app/api?username=imgompanda&show_icons=true&theme=tokyonight)
-<br>
-<br>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imgompanda&layout=compact&theme=tokyonight)
-</div>
-  
-
