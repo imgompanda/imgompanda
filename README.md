@@ -21,13 +21,6 @@
 - [수익화 바이브 코딩 부트캠프](https://fireship.me/ko/bootcamp) — 5일 만에 AI 서비스 기획부터 배포까지 (10명 소수정예)
 - [기업 AX 교육/컨설팅](https://fireship.me/ko/enterprise) — S전자 MX/VD 사업부 교육 (만족도 4.8점)
 
-### 주요 서비스
-
-| 서비스 | 설명 | 스택 |
-|--------|------|------|
-| [fireship.me](https://fireship.me) | SaaS 보일러플레이트 + 부트캠프 | Next.js, Supabase |
-| [ditfinder](https://ditfinder.com) | B2B 기업 검색 서비스 | Next.js, Supabase |
-| [supaleads](https://supaleads.app) | AI 기반 B2B 아웃바운드 | Next.js, AI SDK |
 
 ### 기술 스택
 
